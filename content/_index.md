@@ -242,7 +242,7 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://www.mse.pku.edu.cn/info/1209/2391.htm'
       address:
-        street: Comprehensive Scientific Research Building, Peking University
+        street: Comprehensive Scientific Research Building
         city: Beijing
         region: Haidian
         postcode: '100871'
