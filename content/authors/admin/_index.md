@@ -111,7 +111,7 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.mse.pku.edu.cn/info/1209/2391.htm
 
 # Highlight the author in author lists? (true/false)
