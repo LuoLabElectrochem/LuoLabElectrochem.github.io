@@ -1,6 +1,6 @@
 ---
 title: Wei Yi
-summary: Electrochemistry and Advanced Electron Microscope Methods
+summary: Ion-solid interactions, Advanced Electron Microscope Methods and Electrochemistry
 tags:
   - Graduate Student
 date: '2016-04-27T00:00:00Z'
