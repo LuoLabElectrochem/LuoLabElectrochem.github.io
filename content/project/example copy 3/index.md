@@ -2,7 +2,7 @@
 title: Huang Hengshuo
 summary: Mass transfer, gas absorption, theoretical model, applied mathematics
 tags:
-  - Graduate Student
+  - Postdoctor
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
