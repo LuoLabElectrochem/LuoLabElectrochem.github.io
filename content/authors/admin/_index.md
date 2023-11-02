@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingchuan Luo
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Mingchuan Luo
