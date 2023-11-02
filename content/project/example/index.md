@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Wei Yi
+summary: Electrochemistry and Advanced microscope methods
 tags:
-  - Deep Learning
+  - Graduate Student
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
