@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingchuan Luo
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Mingchuan Luo
@@ -42,18 +42,7 @@ education and professional experience:
     - course: BSc in Applied Chemistry
       institution: Beijing University of Chemical Technology
       year: 2009
-    - course: Assistant Professer
-      institution: Peking University
-      year: 2023
-    - course: Marie Skłodowska-Curie (MSCA) Postdoctoral Researcher
-      institution: Leiden University, The Netherlands, Advisor: Marc T. M. Koper
-      year: 2020
-    - course: Postdoctoral Researcher
-      institution: University of Toronto, Canada, Advisor: Edward H. Sargent
-      year: 2018
-    - course: Postdoctoral Researcher
-      institution: Peking University, China, Advisor: Shaojun Guo
-      year: 2016
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
