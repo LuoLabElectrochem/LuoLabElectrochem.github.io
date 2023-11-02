@@ -172,8 +172,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Graduate students
-          tag: Graduate students
+        - name: Graduate Students
+          tag: Graduate Students
         - name: Postdoctor
           tag: Postedoctor
     design:
