@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: m.luo@pku.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -111,8 +111,8 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    icon_pack: fab
+    link: https://www.mse.pku.edu.cn/info/1209/2391.htm
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
