@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Proffessor of Material Science and Engineering
+role: Assistant Professor of Material Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingchuan Luo is an assistant professor of material science and engineering at Peking University. His research interests include theoretical electrochemistry, nanomaterial synthesis and electrochemical engineering. He leads the electrocatalysis group, which develops electrochemical methods in energy conversion and storage.
 {style="text-align: justify;"}
