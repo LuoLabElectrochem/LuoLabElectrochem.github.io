@@ -30,5 +30,5 @@ url_video: ''
 slides: example
 ---
 
-B.E Zhengzhou University.\
-Ph.D Peking University.
+B.E  Zhengzhou University-School of Material Science and Engineering.\
+Ph.D Peking University-School of Physics.
