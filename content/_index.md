@@ -74,7 +74,6 @@ sections:
 
               * Theoretical electrochemistry
               * Nanomaterial synthesis
-              * Chemical engineering
         - title: Marie Skłodowska-Curie (MSCA) Postdoctoral Researcher
           company: Leiden University
           company_url: ''
