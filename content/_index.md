@@ -83,9 +83,8 @@ sections:
           date_start: '2020'
           date_end: '2023'
           description: theoretical electrochemistry
-  
-  design:
-      columns: '2'
+        design:
+         columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -238,7 +237,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email:
+      email: m.luo@pku.edu.cn
       phone: 888 888 88 88
       appointment_url: 'https://www.mse.pku.edu.cn/info/1209/2391.htm'
       address:
