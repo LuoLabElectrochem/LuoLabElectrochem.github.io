@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Assistant Professor
+          company: Peking University
+          company_url: 'https://www.mse.pku.edu.cn/info/1209/2391.htm'
+          company_logo: org-pku
+          location: Beijing
+          date_start: '2023'
+          date_end: 'now'
           description: |2-
-              Responsibilities include:
+              Interest include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Theoretical electrochemistry
+              * Nanomaterial synthesis
+              * Chemical engineering
+        - title: Marie Skłodowska-Curie (MSCA) Postdoctoral Researcher
+          company: Leiden University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-ldu
+          location: The Netherlands
+          date_start: '2020'
+          date_end: '2023'
+          description: theoretical electrochemistry
+        - title: Postdoctoral Researcher
+          company: University of Toronto
+          company_url: ''
+          company_logo: org-uot
+          location: Canada
+          date_start: '2018'
+          date_end: '2020'
+          description: carbon dioxide reduction
+        - title: Postdoctoral Researcher
+          company: Peking University
+          company_url: ''
+          company_logo: org-pku
+          location: Beijing
+          date_start: '2016'
+          date_end: '2018'
+          description: oxygen reduction reaction
     design:
       columns: '2'
   - block: accomplishments
@@ -171,10 +187,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Graduate students
+          tag: Graduate students
+        - name: Postdoctor
+          tag: Postedoctor
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -237,16 +253,16 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: m.luo@pku.edu.cn
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://www.mse.pku.edu.cn/info/1209/2391.htm'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Comprehensive Scientific Research Building, Peking University
+        city: Beijing
+        region: Haidian
+        postcode: '100871'
+        country: China
+        country_code: CN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
