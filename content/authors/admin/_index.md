@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 骆明川 Mingchuan Luo
+title: Mingchuan Luo
 
 # Name pronunciation (optional)
 name_pronunciation: Mingchuan Luo
