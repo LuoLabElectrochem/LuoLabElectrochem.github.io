@@ -3,7 +3,7 @@
 title: Mingchuan Luo
 
 # Name pronunciation (optional)
-name_pronunciation: MC Luo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Mingchuan
@@ -34,7 +34,7 @@ interests:
   - chemical engineering
 
 # Education to show in About widget
-education and professional experience:
+education:
   courses:
     - course: PhD in Chemistry
       institution: Beijing University of Chemical Technology
