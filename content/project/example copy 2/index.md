@@ -30,6 +30,6 @@ url_video: ''
 slides: example
 ---
 
-B.S. Qingdao University of Science and Technology 
-M.S. China University of Geosciences (Beijing) 
-Ph.D candidate China University of Geosciences (Beijing)-Peking University 
+B.S. Qingdao University of Science and Technology.\
+M.S. China University of Geosciences (Beijing) .\
+Ph.D candidate China University of Geosciences (Beijing)-Peking University .\
