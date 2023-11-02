@@ -83,8 +83,8 @@ sections:
           date_start: '2020'
           date_end: '2023'
           description: theoretical electrochemistry
-        design:
-         columns: '2'
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
