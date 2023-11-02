@@ -83,7 +83,8 @@ sections:
           date_start: '2020'
           date_end: '2023'
           description: theoretical electrochemistry
-    design:
+  
+  design:
       columns: '2'
   - block: accomplishments
     content:
