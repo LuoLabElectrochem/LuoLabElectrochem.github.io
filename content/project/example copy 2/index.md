@@ -1,6 +1,9 @@
 ---
 title: Yu Wenhe
-summary: Synthesis and application of functional porous materials
+summary: B.S. Qingdao University of Science and Technology
+M.S. China University of Geosciences (Beijing)
+Ph.D candidate China University of Geosciences (Beijing)-Peking University
+Synthesis and application of functional porous materials
 tags:
   - Graduate Student
 date: '2016-04-27T00:00:00Z'
