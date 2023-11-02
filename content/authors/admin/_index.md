@@ -47,16 +47,16 @@ Professional experience:
   courses:
     - course: Assistant Professer
       institution: Peking University
-      year: 2023-now
+      year: 2023
     - course: Marie Skłodowska-Curie (MSCA) Postdoctoral Researcher
       institution: Leiden University, The Netherlands, Advisor: Marc T. M. Koper
-      year: 2020-2023
+      year: 2020
     - course: Postdoctoral Researcher
       institution: University of Toronto, Canada, Advisor: Edward H. Sargent
-      year: 2018-2020
+      year: 2018
     - course: Postdoctoral Researcher
       institution: Peking University, China, Advisor: Shaojun Guo
-      year: 2016-2018
+      year: 2016
 
 
 # Skills
