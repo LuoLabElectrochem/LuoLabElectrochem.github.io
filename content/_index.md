@@ -83,22 +83,6 @@ sections:
           date_start: '2020'
           date_end: '2023'
           description: theoretical electrochemistry
-        - title: Postdoctoral Researcher
-          company: University of Toronto
-          company_url: ''
-          company_logo: org-uot
-          location: Canada
-          date_start: '2018'
-          date_end: '2020'
-          description: carbon dioxide reduction
-        - title: Postdoctoral Researcher
-          company: Peking University
-          company_url: ''
-          company_logo: org-pku
-          location: Beijing
-          date_start: '2016'
-          date_end: '2018'
-          description: oxygen reduction reaction
     design:
       columns: '2'
   - block: accomplishments
